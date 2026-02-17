@@ -54,7 +54,7 @@
 
 ### 🎮 Gomoku – Five in a Row (Java Swing)
 
-Java 17 + MVC + Strategy Pattern + TCP Networking  
+> Java 17 + MVC + Strategy Pattern + TCP Networking  
 
 - Full MVC architecture with clean separation of concerns  
 - Multiple AI strategies (Random, Blocking, Minimax, Alpha-Beta)  
