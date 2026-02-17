@@ -22,7 +22,8 @@
 > ROS2 + YOLOv8 + TensorRT + Jetson
 
 - Real-time vehicle detection
-- TensorRT optimized inference
+- Custom YOLOv8 model training (dataset preparation & annotation)
+- ONNX export & TensorRT optimized inference
 - Adaptive Cruise Control logic
 - Full ROS2 integration
 
