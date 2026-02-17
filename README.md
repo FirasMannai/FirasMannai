@@ -44,16 +44,18 @@
 ---
 
 ### 📱 BMI Mobile App (Flutter)
-- BMI calculation & history tracking
-- Data persistence
-- Clean UI & responsive layout
+> Flutter + Dart + Provider + SharedPreferences + Biometric Authentication
+
+- Cross-platform Flutter app with clean UI & state management (Provider)  
+- Biometric authentication (Fingerprint / Face ID)  
+- BMI history tracking with persistent local storage (SharedPreferences)  
+- Health insights including body fat & water percentage estimation 
 
 🔗 Repo: https://github.com/FirasMannai/BMI-Mobile-Application--Flutter-Dart
 
 ---
 
 ### 🎮 Gomoku – Five in a Row (Java Swing)
-
 > Java 17 + MVC + Strategy Pattern + TCP Networking  
 
 - Full MVC architecture with clean separation of concerns  
