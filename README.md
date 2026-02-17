@@ -34,10 +34,10 @@
 ### 🧠 PARO-Style Patient Monitoring System
 > Raspberry Pi + BLE + Pose Detection + LED State Feedback
 
-- Real-time sensor monitoring
-- Patient pose detection
-- Structured logging system
-- Modular MQTT communication
+- AI-based pose tracking using MediaPipe
+- Real-time BLE audio streaming & RMS decibel analysis 
+- One-button control with RGB LED status feedback (idle, search, record, error)
+- Integrated as a systemd service for autonomous boot & auto-restart 
 
 🔗 Repo: https://github.com/FirasMannai/PARO-Style-Patient-Monitoring-System
 
