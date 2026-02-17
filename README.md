@@ -83,8 +83,7 @@ NVIDIA Jetson | Raspberry Pi 5 | ESP32
 
 ## 📫 Connect With Me
 
-LinkedIn: (add your link here)  
-Email: (add if you want)
+Email: firasmannai3m@gmail.com
 
 ---
 
