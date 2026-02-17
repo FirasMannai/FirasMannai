@@ -43,21 +43,34 @@
 
 ---
 
-### 📊 Function Plotter (Python + Matplotlib)
-- Config-file-based function parsing
-- Dynamic plotting
-- Structured error handling
-
-🔗 Repo: https://github.com/FirasMannai/Function-Plotter
-
----
-
 ### 📱 BMI Mobile App (Flutter)
 - BMI calculation & history tracking
 - Data persistence
 - Clean UI & responsive layout
 
 🔗 Repo: https://github.com/FirasMannai/BMI-Mobile-Application--Flutter-Dart
+
+---
+
+### 🎮 Gomoku – Five in a Row (Java Swing)
+
+Java 17 + MVC + Strategy Pattern + TCP Networking  
+
+- Full MVC architecture with clean separation of concerns  
+- Multiple AI strategies (Random, Blocking, Minimax, Alpha-Beta)  
+- Network multiplayer via TCP (Server/Client mode) 
+- Debug logging & performance analysis tools  
+
+🔗 Repository: https://github.com/FirasMannai/Gomoku
+
+---
+
+### 📊 Function Plotter (Python + Matplotlib)
+- Config-file-based function parsing
+- Dynamic plotting
+- Structured error handling
+
+🔗 Repo: https://github.com/FirasMannai/Function-Plotter
 
 ---
 
